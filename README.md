@@ -194,6 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Owais Ali Khan - [@owais](https://www.linkedin.com/in/owais-ali-khan-04933b238/) - owaisalikhan2003@gmail.com
+
 Kundan Lall Nasir - [@Kundan](https://www.linkedin.com/in/kundan-nasir-8178a21a3/) - kundannasir7@gmail.com
 
 Project Link: [https://github.com/OwaisK4/Inventory_Manager_Django](https://github.com/OwaisK4/Inventory_Manager_Django)
