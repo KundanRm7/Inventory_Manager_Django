@@ -34,7 +34,7 @@
     <img src="sample/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">LDP Asset Manager</h3>
+  <h3 align="center">LDP Asset Management</h3>
 
   <p align="center">
     An awesome web application developed by me to manage inventory for LDP Logistics
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project was solely developed by me during my brief stint at LDP Logistics in the summer of 2023, where I worked as an IT Support / Web Developer. The main function of this project is to act as a web portal that keeps track of all the inventory (assets, accessories, licenses, etc) held at all offices of LDP Logistics. The backend is built using the Django web framework and the frontend using Bootstrap 4.
+This project was solely developed by me at LDP Logistics in the summer of 2023. The main function of this project is to act as a web portal that keeps track of all the inventory (assets, accessories, licenses, etc) held at all offices of LDP Logistics. The backend is built using the Django web framework and the frontend using Bootstrap 4.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,6 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Owais Ali Khan - [@owais](https://www.linkedin.com/in/owais-ali-khan-04933b238/) - owaisalikhan2003@gmail.com
+Kundan Lall Nasir - [@Kundan](https://www.linkedin.com/in/kundan-nasir-8178a21a3/) - kundannasir7@gmail.com
 
 Project Link: [https://github.com/OwaisK4/Inventory_Manager_Django](https://github.com/OwaisK4/Inventory_Manager_Django)
 
